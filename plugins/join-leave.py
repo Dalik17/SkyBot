@@ -1,5 +1,3 @@
-# Shitty plugin nade by iloveportalz0r
-
 from util import hook
 
 @hook.command
